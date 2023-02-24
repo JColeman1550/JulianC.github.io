@@ -1,0 +1,172 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Julian Coleman Baseball Analytics Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Baseball Analytics Portfolio<br />
+						</h1>
+						<p>Aspiring baseball Data Analyst that seeks to help a program use statistics and analysis to help contribute to the on-field product and help players develop. Skilled in SQL & Python  <a href="https://twitter.com/_THERedSoxGuy_">@_THERedSoxGuy_</a>  <a href="https://html5up.net"></a><br />
+						</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Analysis Projects</a></li>
+							
+						</ul>
+						<ul class="icons">
+							<li><a href="https://twitter.com/_THERedSoxGuy_" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.linkedin.com/in/juliantcoleman/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<li><a href="https://github.com/JColeman1550" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									
+										<h2><a href="https://twitter.com/_THERedSoxGuy_/status/1625865345293594626/photo/1">Red Sox Following Trend of Less Fastballs Are Being Thrown by Starters<br />
+									</a></h2>
+								</header>
+								<a href="https://twitter.com/_THERedSoxGuy_/status/1625865345293594626/photo/1" class="image fit"><img src="images/SALE1.jpg" alt="" /></a>
+								<p>Annaul Fastball Percentage 2008-2022 (4Seamers & Sinkers)</p>
+								<ul class="actions special">
+									<li><a href="https://twitter.com/_THERedSoxGuy_/status/1625865345293594626/photo/1" class="small button">View Chart/Analysis</a></li>
+									<li><a href="https://twitter.com/_THERedSoxGuy_/status/1625865342705696772/photo/1" class="small button">View 1st Inning Percentages</a></li>
+									<li><a href="https://twitter.com/_THERedSoxGuy_/status/1625897740575076352/photo/1" class="small button">View 1st/4th & Overall</a></li>
+									<li><a href="https://twitter.com/_THERedSoxGuy_/status/1625905759375568903/photo/1" class="small button">View 1st-7th Innings</a></li>
+
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+
+								</header>
+								<h2><a href="https://twitter.com/_THERedSoxGuy_/status/1623716891448467459/photo/1">2023 Team K/BB% Projections<br />
+								</a></h2>
+								<p>In this chart We Examine How Each Team's Pitching Staff Projects in Terms of K & BB% 
+								  </p>
+							</header>
+							<a href="https://twitter.com/_THERedSoxGuy_/status/1623716891448467459/photo/1" class="image main"><img src="images/MLB1.png" alt="" /></a>
+							<ul class="actions special">
+								<li><a href="https://twitter.com/_THERedSoxGuy_/status/1623716891448467459/photo/1" class="button">View Chart/Analysis</a></li>
+								<li><a href="https://twitter.com/_THERedSoxGuy_/status/1623716893663064070/photo/1" class="button">View CSV</a></li>
+
+
+
+							</ul>
+						</article>
+						<article>
+									<header>
+										
+										<h2><a href="https://twitter.com/_THERedSoxGuy_/status/1624046177959174146/photo/1"> 2022 Appearences Made By Pitchers W/ 0 or -WAR<br />
+										</a></h2>
+									</header>
+									<a href="https://twitter.com/_THERedSoxGuy_/status/1624046177959174146/photo/1" class="image fit"><img src="images/AO1.jfif" alt="" /></a>
+									<p>Visualization of MLB teams that used the most pitchers with a 0 or negative WAR </p>
+									<ul class="actions special">
+										<li><a href="https://twitter.com/_THERedSoxGuy_/status/1624046177959174146/photo/1" class="button">View Chart/Analysis</a></li>
+										<li><a href="https://twitter.com/_THERedSoxGuy_/status/1624046181230817281/photo/1" class="button">View CSV</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="https://github.com/JColeman1550/2022-Year-in-Review/blob/main/NL_East_2022.ipynb">2022 NL East Season Analysis<br />
+										
+										</header>
+										<a href="https://github.com/JColeman1550/2022-Year-in-Review/blob/main/NL_East_2022.ipynb" class="image fit"><img src="images/NLEAST22.jfif" alt="" /></a>
+										<p></p>
+										<ul class="actions special">
+											<li><a href="https://github.com/JColeman1550/2022-Year-in-Review/blob/main/NL_East_2022.ipynb" class="button">View Code</a></li>	
+										
+									
+
+
+
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/JColeman1550/2022-Year-in-Review/blob/main/NL_Central_2022.ipynb">2022 NL Central Season Analysis<br />
+										
+										</header>
+										<a href="https://github.com/JColeman1550/2022-Year-in-Review/blob/main/NL_Central_2022.ipynb" class="image fit"><img src="images/NLCENT22.jfif" alt="" /></a>
+										<p></p>
+										<ul class="actions special">
+											<li><a href="https://github.com/JColeman1550/2022-Year-in-Review/blob/main/NL_Central_2022.ipynb" class="button">View Code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+									
+									</ul>
+								</article>
+
+
+
+
+								
+
+								
+							
+
+			
+					
+								<h3></h3>
+								<ul class="icons alt">
+									<li><a href="https://twitter.com/_THERedSoxGuy_" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.linkedin.com/in/juliantcoleman/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+									<li><a href="https://github.com/JColeman1550" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
